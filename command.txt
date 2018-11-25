@@ -1,0 +1,1 @@
+gcc -o zjs zjs.c lex.yy.c zjs.tab.c -lSDL2 -lm
